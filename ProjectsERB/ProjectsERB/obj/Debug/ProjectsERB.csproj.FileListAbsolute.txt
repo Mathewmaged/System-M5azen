@@ -1,0 +1,183 @@
+C:\Users\Mina Makram\source\repos\ProjectsERB\ProjectsERB\bin\Debug\ProjectsERB.exe.config
+C:\Users\Mina Makram\source\repos\ProjectsERB\ProjectsERB\bin\Debug\ProjectsERB.exe
+C:\Users\Mina Makram\source\repos\ProjectsERB\ProjectsERB\bin\Debug\ProjectsERB.pdb
+C:\Users\Mina Makram\source\repos\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.Form1.resources
+C:\Users\Mina Makram\source\repos\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.Properties.Resources.resources
+C:\Users\Mina Makram\source\repos\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.csproj.GenerateResource.Cache
+C:\Users\Mina Makram\source\repos\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.csproj.CoreCompileInputs.cache
+C:\Users\Mina Makram\source\repos\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.exe
+C:\Users\Mina Makram\source\repos\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.pdb
+C:\Users\Mina Makram\source\repos\ProjectsERB\ProjectsERB\bin\Debug\EntityFramework.dll
+C:\Users\Mina Makram\source\repos\ProjectsERB\ProjectsERB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mina Makram\source\repos\ProjectsERB\ProjectsERB\bin\Debug\ERB_Model.dll
+C:\Users\Mina Makram\source\repos\ProjectsERB\ProjectsERB\bin\Debug\EntityFramework.xml
+C:\Users\Mina Makram\source\repos\ProjectsERB\ProjectsERB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mina Makram\source\repos\ProjectsERB\ProjectsERB\bin\Debug\ERB_Model.pdb
+C:\Users\Mina Makram\source\repos\ProjectsERB\ProjectsERB\bin\Debug\ERB_Model.dll.config
+C:\Users\Mina Makram\source\repos\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.showbillproducts.resources
+C:\Users\Mina Makram\source\repos\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.csprojResolveAssemblyReference.cache
+C:\Users\Mina Makram\source\repos\ProjectsERB\ProjectsERB\bin\Debug\Elm5zenDatabase.dll
+C:\Users\Mina Makram\source\repos\ProjectsERB\ProjectsERB\bin\Debug\Elm5zenDatabase.pdb
+C:\Users\Mina Makram\source\repos\ProjectsERB\ProjectsERB\bin\Debug\Elm5zenDatabase.dll.config
+C:\Users\Mina Makram\Desktop\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.csprojResolveAssemblyReference.cache
+C:\Users\Mina Makram\Desktop\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.Properties.Resources.resources
+C:\Users\Mina Makram\Desktop\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.showbillproducts.resources
+C:\Users\Mina Makram\Desktop\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.csproj.GenerateResource.Cache
+C:\Users\Mina Makram\Desktop\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.csproj.CoreCompileInputs.cache
+C:\Users\Mina Makram\Desktop\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.exe
+C:\Users\Mina Makram\Desktop\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.pdb
+C:\Users\Mina Makram\Desktop\ProjectsERB\ProjectsERB\bin\Debug\ProjectsERB.exe.config
+C:\Users\Mina Makram\Desktop\ProjectsERB\ProjectsERB\bin\Debug\ProjectsERB.exe
+C:\Users\Mina Makram\Desktop\ProjectsERB\ProjectsERB\bin\Debug\ProjectsERB.pdb
+C:\Users\Mina Makram\Desktop\ProjectsERB\ProjectsERB\bin\Debug\Elm5zenDatabase.dll
+C:\Users\Mina Makram\Desktop\ProjectsERB\ProjectsERB\bin\Debug\EntityFramework.dll
+C:\Users\Mina Makram\Desktop\ProjectsERB\ProjectsERB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mina Makram\Desktop\ProjectsERB\ProjectsERB\bin\Debug\Elm5zenDatabase.pdb
+C:\Users\Mina Makram\Desktop\ProjectsERB\ProjectsERB\bin\Debug\Elm5zenDatabase.dll.config
+C:\Users\Mina Makram\Desktop\ProjectsERB\ProjectsERB\bin\Debug\EntityFramework.xml
+C:\Users\Mina Makram\Desktop\ProjectsERB\ProjectsERB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mina Makram\Desktop\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.Invoice_Buy.resources
+C:\Users\Mina Makram\Desktop\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.Invoice_Sell.resources
+C:\Users\Mina Makram\Desktop\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.Migrations.update1.resources
+C:\Users\Mina Makram\Desktop\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.Migrations.update2.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\bin\Debug\ProjectsERB.exe.config
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\bin\Debug\ProjectsERB.exe
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\bin\Debug\ProjectsERB.pdb
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\bin\Debug\EntityFramework.dll
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\bin\Debug\Elm5zenDatabase.pdb
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\bin\Debug\Elm5zenDatabase.dll.config
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\bin\Debug\EntityFramework.xml
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.csprojResolveAssemblyReference.cache
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.AddProduct.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.Invoice_Sell.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.Invoice_Buy.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.Properties.Resources.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.showbillproducts.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.csproj.GenerateResource.Cache
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.csproj.CoreCompileInputs.cache
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.exe
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.pdb
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.UpdateProduct.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.UpdateCategory.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.ShowAllProducts.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.AddCategory.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\bin\Debug\Elm5zenDatabase.dll
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.AddPerson.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.ProductReturnBack.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.SellPermission.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.ShowBillDetails.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.ProductsReports.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v2\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.Login.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.AddProduct.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.AddCategory.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.AddPerson.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.Login.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.ProductReturnBack.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.Invoice_Sell.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.Invoice_Buy.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.ProductsReports.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.Properties.Resources.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.SellPermission.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.ShowAllProducts.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.ShowBillDetails.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.showbillproducts.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.UpdateCategory.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.UpdateProduct.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.csproj.GenerateResource.Cache
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.csproj.CoreCompileInputs.cache
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.exe
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.pdb
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\bin\Debug\ProjectsERB.exe.config
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\bin\Debug\ProjectsERB.exe
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\bin\Debug\ProjectsERB.pdb
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\bin\Debug\EasyTabs.dll
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\bin\Debug\Elm5zenDatabase.dll
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\bin\Debug\EntityFramework.dll
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\bin\Debug\MaterialSkin.dll
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\bin\Debug\Win32Interop.Dwmapi.dll
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\bin\Debug\Win32Interop.Gdi32.dll
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\bin\Debug\Win32Interop.Kernel32.dll
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\bin\Debug\Win32Interop.User32.dll
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\bin\Debug\Win32Interop.Uxtheme.dll
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\bin\Debug\EasyTabs.xml
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\bin\Debug\Elm5zenDatabase.pdb
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\bin\Debug\Elm5zenDatabase.dll.config
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\bin\Debug\EntityFramework.xml
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\bin\Debug\Win32Interop.Dwmapi.pdb
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\bin\Debug\Win32Interop.Gdi32.pdb
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\bin\Debug\Win32Interop.Gdi32.xml
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\bin\Debug\Win32Interop.Kernel32.pdb
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\bin\Debug\Win32Interop.User32.pdb
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\bin\Debug\Win32Interop.Uxtheme.pdb
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.Main.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\bin\Debug\ar\ProjectsERB.resources.dll
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.Main.ar.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\obj\Debug\ar\ProjectsERB.resources.dll
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.AppContainer.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.csprojResolveAssemblyReference.cache
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.addUsers.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.Invoice_Backs.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.RepresentAccountsMoney.resources
+C:\Users\Mina Makram\Desktop\ERP Integration\Mina Makram\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.StoreMoves.resources
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\bin\Debug\ProjectsERB.exe.config
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\bin\Debug\ProjectsERB.exe
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\bin\Debug\ProjectsERB.pdb
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\bin\Debug\ar\ProjectsERB.resources.dll
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\bin\Debug\EasyTabs.dll
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\bin\Debug\EntityFramework.dll
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\bin\Debug\EntityFramework.SqlServer.dll
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\bin\Debug\MaterialSkin.dll
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\bin\Debug\Microsoft.WindowsAPICodePack.dll
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\bin\Debug\Win32Interop.Dwmapi.dll
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\bin\Debug\Win32Interop.Gdi32.dll
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\bin\Debug\Win32Interop.Kernel32.dll
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\bin\Debug\Win32Interop.User32.dll
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\bin\Debug\Win32Interop.Uxtheme.dll
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\bin\Debug\EasyTabs.xml
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\bin\Debug\Elm5zenDatabase.pdb
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\bin\Debug\Elm5zenDatabase.dll.config
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\bin\Debug\EntityFramework.xml
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\bin\Debug\EntityFramework.SqlServer.xml
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\bin\Debug\Win32Interop.Dwmapi.pdb
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\bin\Debug\Win32Interop.Gdi32.pdb
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\bin\Debug\Win32Interop.Gdi32.xml
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\bin\Debug\Win32Interop.Kernel32.pdb
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\bin\Debug\Win32Interop.User32.pdb
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\bin\Debug\Win32Interop.Uxtheme.pdb
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.csprojAssemblyReference.cache
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.AddProduct.resources
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.AddCategory.resources
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.AddPerson.resources
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.addUsers.resources
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.AppContainer.resources
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.Invoice_Backs.resources
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.Login.resources
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.Main.resources
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.ProductReturnBack.resources
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.Invoice_Sell.resources
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.Invoice_Buy.resources
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.ProductsReports.resources
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.Properties.Resources.resources
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.RepresentAccountsMoney.resources
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.SellPermission.resources
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.ShowAllProducts.resources
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.ShowBillDetails.resources
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.showbillproducts.resources
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.StoreMoves.resources
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.UpdateCategory.resources
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.UpdateProduct.resources
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.Main.ar.resources
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.csproj.GenerateResource.cache
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.csproj.CoreCompileInputs.cache
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ar\ProjectsERB.resources.dll
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.csproj.CopyComplete
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.exe
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.pdb
+F:\ITIprojects\Elm5zenDatabase\v3\ProjectsERB\ProjectsERB\obj\Debug\ProjectsERB.Migrations.step1.resources

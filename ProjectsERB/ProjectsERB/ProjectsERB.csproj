@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A6610BDA-9111-4E96-904A-EA7DA6504CDB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProjectsERB</RootNamespace>
+    <AssemblyName>ProjectsERB</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>easystore-logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EasyTabs, Version=1.3.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\EasyTabs.1.3.3.0\lib\net40\EasyTabs.dll</HintPath>
+    </Reference>
+    <Reference Include="Elm5zenDatabase, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Elm5zenDatabase\Elm5zenDatabase\bin\Debug\Elm5zenDatabase.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAPICodePack, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\EasyTabs.1.3.3.0\lib\net40\Microsoft.WindowsAPICodePack.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAPICodePack.Shell, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\EasyTabs.1.3.3.0\lib\net40\Microsoft.WindowsAPICodePack.Shell.dll</HintPath>
+    </Reference>
+    <Reference Include="ssl, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\ssl.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="validation_library, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\validation_library.dll</HintPath>
+    </Reference>
+    <Reference Include="Win32Interop.Dwmapi, Version=1.0.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Win32Interop.Dwmapi.1.0.1\lib\Win32Interop.Dwmapi.dll</HintPath>
+    </Reference>
+    <Reference Include="Win32Interop.Gdi32, Version=1.0.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Win32Interop.Gdi32.1.0.1\lib\Win32Interop.Gdi32.dll</HintPath>
+    </Reference>
+    <Reference Include="Win32Interop.Kernel32, Version=1.0.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Win32Interop.Kernel32.1.0.1\lib\Win32Interop.Kernel32.dll</HintPath>
+    </Reference>
+    <Reference Include="Win32Interop.User32, Version=1.0.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Win32Interop.User32.1.0.1\lib\Win32Interop.User32.dll</HintPath>
+    </Reference>
+    <Reference Include="Win32Interop.Uxtheme, Version=1.0.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Win32Interop.Uxtheme.1.0.1\lib\Win32Interop.Uxtheme.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddProduct.designer.cs">
+      <DependentUpon>AddProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addUsers.Designer.cs">
+      <DependentUpon>addUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AppContainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AppContainer.Designer.cs">
+      <DependentUpon>AppContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ERBContext.cs" />
+    <Compile Include="AddCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddCategory.designer.cs">
+      <DependentUpon>AddCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddPerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddPerson.designer.cs">
+      <DependentUpon>AddPerson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Invoice_back.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Invoice_back.Designer.cs">
+      <DependentUpon>Invoice_back.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201906220915009_step1.cs" />
+    <Compile Include="Migrations\201906220915009_step1.Designer.cs">
+      <DependentUpon>201906220915009_step1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductReturnBack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductReturnBack.designer.cs">
+      <DependentUpon>ProductReturnBack.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Invoice_Sells.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Invoice_Sells.Designer.cs">
+      <DependentUpon>Invoice_Sells.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Invoice_Buy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Invoice_Buy.Designer.cs">
+      <DependentUpon>Invoice_Buy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="ProductsReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductsReports.designer.cs">
+      <DependentUpon>ProductsReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RepresentAccountsMoney.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RepresentAccountsMoney.Designer.cs">
+      <DependentUpon>RepresentAccountsMoney.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SellPermission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SellPermission.designer.cs">
+      <DependentUpon>SellPermission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowAllProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowAllProducts.designer.cs">
+      <DependentUpon>ShowAllProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowBillDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowBillDetails.designer.cs">
+      <DependentUpon>ShowBillDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="showbillproducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="showbillproducts.Designer.cs">
+      <DependentUpon>showbillproducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StoreMoves.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StoreMoves.Designer.cs">
+      <DependentUpon>StoreMoves.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateCategory.designer.cs">
+      <DependentUpon>UpdateCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateProduct.designer.cs">
+      <DependentUpon>UpdateProduct.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddProduct.resx">
+      <DependentUpon>AddProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddCategory.resx">
+      <DependentUpon>AddCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddPerson.resx">
+      <DependentUpon>AddPerson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addUsers.resx">
+      <DependentUpon>addUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AppContainer.resx">
+      <DependentUpon>AppContainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Invoice_back.resx">
+      <DependentUpon>Invoice_back.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.ar.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201906220915009_step1.resx">
+      <DependentUpon>201906220915009_step1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductReturnBack.resx">
+      <DependentUpon>ProductReturnBack.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Invoice_Sells.resx">
+      <DependentUpon>Invoice_Sells.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Invoice_Buy.resx">
+      <DependentUpon>Invoice_Buy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductsReports.resx">
+      <DependentUpon>ProductsReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RepresentAccountsMoney.resx">
+      <DependentUpon>RepresentAccountsMoney.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SellPermission.resx">
+      <DependentUpon>SellPermission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowAllProducts.resx">
+      <DependentUpon>ShowAllProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowBillDetails.resx">
+      <DependentUpon>ShowBillDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="showbillproducts.resx">
+      <DependentUpon>showbillproducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StoreMoves.resx">
+      <DependentUpon>StoreMoves.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateCategory.resx">
+      <DependentUpon>UpdateCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateProduct.resx">
+      <DependentUpon>UpdateProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dbo.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back log.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye_inv.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Person-Male-Light-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="easystore-logo.ico" />
+    <None Include="Resources\ezgif.com-gif-maker.png" />
+    <None Include="Resources\GreatRatesIcon.jpg" />
+    <None Include="Resources\Icon_Debt Buyers.png" />
+    <None Include="Resources\download11.png" />
+    <None Include="Resources\adduser.png" />
+    <None Include="Resources\download.png" />
+    <None Include="Resources\cart.png" />
+    <None Include="Resources\add-person-2646097_960_7201.png" />
+    <None Include="Resources\Add-item-icon1.png" />
+    <None Include="Resources\31.jpg" />
+    <None Include="Resources\25.png" />
+    <None Include="Resources\images11.png" />
+    <None Include="Resources\download1.png" />
+    <None Include="Resources\Blue-Skies-Green-Fields_000.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
